@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "481876831263",
+    "firebase_url": "https://gdg-sadc-devfest-17.firebaseio.com",
+    "project_id": "gdg-sadc-devfest-17",
+    "storage_bucket": "gdg-sadc-devfest-17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481876831263:android:817348c84d1cc2af",
+        "android_client_info": {
+          "package_name": "com.gdgsadc.gdgsadevfest2017"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481876831263-p2mnvv2nvphna5fqh4sf2dgkvd1ukjht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gdgsadc.gdgsadevfest2017",
+            "certificate_hash": "27a60218b35c3c9802837e0d796750b599e240ec"
+          }
+        },
+        {
+          "client_id": "481876831263-92mm1kbq77j4nufc3sm52opuccphkmtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5jzzayKUQmleD3IlU_5hp4Nhv0MM_Cuo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481876831263-92mm1kbq77j4nufc3sm52opuccphkmtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
